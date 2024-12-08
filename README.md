@@ -1,0 +1,1 @@
+This Jupyter Notebook outputs a Text file with Spotify links for your downloaded music. These links can then be pasted into Spotify playlists for you to "teach" Spotify your music taste and get new suggestions.
